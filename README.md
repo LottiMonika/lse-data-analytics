@@ -3,6 +3,7 @@ Welcome! This is a portfolio of graded assignments completed as part of the LSE 
 
 Each folder contains:
 At least one workbook (using the relevant tool(s))
+
 A technical report detailing the analysis, findings, and recommendations
 
 📂 Project Folders:
