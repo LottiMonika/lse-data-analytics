@@ -1,5 +1,5 @@
 # LSE Data Analytics
-Welcome! This is a portfolio of graded assignments completed as part of the LSE Career Accelerator in Data Analytics. Each project combines real-world data with analytical tools including Excel, SQL, Python, R, and Tableau.
+Welcome! This is a portfolio of assignments completed as part of the LSE Career Accelerator in Data Analytics. Each project combines real-world data with analytical tools including Excel, SQL, Python, R, and Tableau.
 
 Each folder contains:
 - At least one workbook (using the relevant tool(s))
