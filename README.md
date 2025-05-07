@@ -12,7 +12,7 @@ Conducted data cleaning, exploratory analysis, visualizations, and developed mac
 - [NHS_Analysis](./NHS_Analysis)
 Utilized Python for data cleaning, exploratory data analysis, and the creation of insightful visualizations to uncover trends and patterns.
 
-- [2Market_Analysis](./2Market_Analysis) - Excel was used for data cleaning, PostGreSQL for data exploration & Tableau for visualisation
+- [2Market_Analysis](./2Market_Analysis)
 Combined Excel for initial data cleaning, PostgreSQL for in-depth data exploration, and Tableau for interactive visualizations and dashboard creation.
 
 More projects will be added as the programme progresses.
