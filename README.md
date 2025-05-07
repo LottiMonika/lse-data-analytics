@@ -3,7 +3,7 @@ Welcome! This is a portfolio of assignments completed as part of the LSE Career 
 
 Each folder contains:
 - At least one workbook (using the relevant tool(s))
-- A technical report detailing the analysis, findings, and recommendations
+- A technical report detailing the business context, analysis, findings, and business recommendations
 
 📂 Project Folders:
 - [Turtle_Games_Analysis](./Turtle_Games_Analysis) 
