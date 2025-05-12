@@ -6,7 +6,7 @@ Each folder contains:
 - A technical report detailing the business context, analysis, findings, and business recommendations
 
 📂 Project Folders:
-- [Turtle_Games_Analysis](./Turtle_Games_Analysis) 
+- [TurtleGames_Analysis](./TurtleGames_Analysis) 
 Conducted data cleaning, exploratory analysis, visualizations, and developed machine learning models using Python and R. Python was primarily used for EDA and visualizations, while both Python and R were applied for modeling and data preprocessing.
 
 - [NHS_Analysis](./NHS_Analysis)
