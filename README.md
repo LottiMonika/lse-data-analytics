@@ -16,6 +16,7 @@ Utilized Python for data cleaning, exploratory data analysis, and the creation o
 Combined Excel for initial data cleaning, PostgreSQL for in-depth data exploration, and Tableau for interactive visualizations and dashboard creation.
 
 - Sales_Demand_Analysis
+- [Sales_Demand_Analysis](./Sales_Demand_Analysis) 
 Applied Python for data cleaning, exploratory analysis, and predictive modeling, including Monte Carlo simulations and revenue optimization strategies. Developed compelling visualizations and an interactive dashboard using Tableau.
 
 More projects will be added as the programme progresses.
